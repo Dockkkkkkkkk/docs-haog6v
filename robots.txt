@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-bz44rw.quietmatches.com/sitemap.xml
